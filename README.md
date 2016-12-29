@@ -1,4 +1,4 @@
-# Synerg NIIT Project 2
+# Colaboration Frontend NIIT Project 2
 Collaboration project consisting of basic funtionality like
  - New user registrations
  - Blogs
